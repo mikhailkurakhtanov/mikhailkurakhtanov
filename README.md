@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikhailkurakhtanov
 - 👀 I’m interested in fullstack development with .NET Core and TypeScript + Angular
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on my personal project Syncres, that will allow teams achieve high-level co-op work with team's files and tasks
+- 💞️ I’m looking to collaborate on my personal project "SerenityTask", that will allow people relieve stress and live meaningful life.
 - 📫 How to reach me: mikhail@csfullstack.com
 
 <!---
