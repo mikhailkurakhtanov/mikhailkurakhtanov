@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikhailkurakhtanov
 - 👀 I’m interested in fullstack development with .NET Core and TypeScript + Angular
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking for Android, MacOS and iOS developers to work on my personal project "SerenityTask", that will allow people relieve stress and live meaningful life.
+- 🌱 I’m currently learning Angular and develop "SerenityTask" for Web
+- 💞️ I’m looking for Android, MacOS and iOS developers to work on my personal project "SerenityTask" - cross-platform, that will allow people relieve stress and live meaningful life.
 - 📫 How to reach me: mikhail@csfullstack.com
 
 <!---
