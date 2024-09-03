@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mikhailkurakhtanov
-- 👀 I’m interested in fullstack development with .NET Core and TypeScript + Angular
-- 🌱 I’m currently learning React and Java, and develop "SerenityTask" for Web
-- 💞️ I’m looking for Android, MacOS and iOS developers to work on my personal project "SerenityTask" - cross-platform app, that will allow students relieve stress and live meaningful life.
-- 📫 How to reach me: mikhail@csfullstack.com
+- 👀 I’m interested in fullstack development with .NET Core and Angular
+- 🌱 I’m currently developing "booklog" app for book keepers and "Sorana Toolbox" as a UI/UX library for my personal projects to use
+- 📫 How to reach me: mikhailkurakhtanov@gmail.com
 
 <!---
 mikhailkurakhtanov/mikhailkurakhtanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
